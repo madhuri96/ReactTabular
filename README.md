@@ -16,7 +16,7 @@
 
 ### Data-Grid should have following features:
 
-#### Pagination Option
+#### Pagination
 
 #### Filtering
 
